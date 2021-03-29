@@ -5,17 +5,20 @@ head1 {
     font-family: cursive;
 }
 body {
-    background-color: #331f00;
+    background-color: #21aa36;
     color: #FFFFFF;
     font-family: sans-serif;
    }
    h1 {
-    color: #f4f5f5;
+    color: #f4f5f4;
     text-align: center;
     font: italic 200% fantasy;
    }
    p1 {
-    
+    margin-top: 100px;
+   margin-bottom: 100px;
+   margin-right: 150px;
+   margin-left: 80px;
     color: #f8f8f2;
     text-align: right;
    }
